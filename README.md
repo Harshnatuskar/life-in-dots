@@ -1,5 +1,5 @@
 # life-in-dots
-Visualizes your life in dots  
+Visualizes your life in dots  : https://life-in-dots-seven.vercel.app/
 
 # create-svelte
 
